@@ -1,28 +1,7 @@
-## Desenvolvedor Java/PHP Web 
+## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Desenvolvedor Java/PHP Web 
+<a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![snake gif](https://github.com/wagnerdf/wagnerdf/blob/output/github-contribution-grid-snake.gif)
-
-### 📊 Estatísticas
-<div>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=wagnerdf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-
-</div>
-
-</br></br></br></br></br></br>
-<br/> <!-- Outra quebra de linha -->
-<br/> <!-- Outra quebra de linha -->
 
 ### 🤖 Linguagens e Tecnologias
 <div>
@@ -88,7 +67,15 @@
       title="JavaScript"
       width="30px" 
       style="padding-right: 10px;" 
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+      src="https://i.imgur.com/uTvtNFc.png" 
+  />
+  <img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
   <img 
       align="left" 
@@ -130,19 +117,29 @@
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-  <img 
-      align="left" 
-      alt="Python" 
-      title="Python"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
 </div>
 
-<br/> <!-- Outra quebra de linha -->
+
+</br>
 <br/> <!-- Outra quebra de linha -->
 
-<a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📊 Estatísticas
+<div>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=wagnerdf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</div>
+
+
   
 
