@@ -2,46 +2,147 @@
 
 ![snake gif](https://github.com/wagnerdf/wagnerdf/blob/output/github-contribution-grid-snake.gif)
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnerdf&show_icons=true" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdf&layout=compact" alt="Linguagens mais usadas" />
+### 📊 Estatísticas
+<div>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=wagnerdf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+
 </div>
 
+</br></br></br></br></br></br>
+<br/> <!-- Outra quebra de linha -->
+<br/> <!-- Outra quebra de linha -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Spring Boot" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Eclipse IDE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="JS" height="40" width="30" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="jQuery" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="UBUNTU" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-  <img align="center" alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+### 🤖 Linguagens e Tecnologias
+<div>
+  <img 
+      align="left" 
+      alt="Java"
+      title="Java" 
+      width="35px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="PHP" 
+      title="PHP"
+      width="40px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Spring Boot" 
+      title="Spring Boot"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Eclipse IDE"
+      title="Eclipse IDE" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Visual Studio Code"
+      title="Visual Studio Code" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="HTML" 
+      title="HTML"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="CSS"
+      title="CSS" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Bootstrap" 
+      title="Bootstrap"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="PostgreSQL" 
+      title="PostgreSQL"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="jQuery" 
+      title="jQuery"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Ubuntu" 
+      title="Ubuntu"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
 </div>
+
+<br/> <!-- Outra quebra de linha -->
+<br/> <!-- Outra quebra de linha -->
+
+<a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-<!--
-**wagnerdf/wagnerdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
