@@ -132,9 +132,9 @@
   </a>
     <!-- Most Used Languages -->
   <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
-    <img align="left" height="200" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=vue#gh-light-mode-only" alt="Most Used Languages (Light)" />
+    <img align="left" height="200" width="400" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=vue#gh-light-mode-only" alt="Most Used Languages (Light)" />
   </a>
   <a href="https://github.com/wagnerdf#gh-dark-mode-only" target="_blank">
-    <img align="left" height="200" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Most Used Languages (Dark)" />
+    <img align="left" height="200" width="400" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Most Used Languages (Dark)" />
   </a>
 </div>
