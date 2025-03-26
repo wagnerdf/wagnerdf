@@ -1,9 +1,8 @@
-## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Desenvolvedor Java/PHP Web 
+## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Developer Java/PHP Web 
 <a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+## Contributions
 ![snake gif](https://github.com/wagnerdf/wagnerdf/blob/output/github-contribution-grid-snake.gif)
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 <div>
   <img 
       align="left" 
@@ -123,19 +122,19 @@
 </br>
 <br/> <!-- Outra quebra de linha -->
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 <div>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=wagnerdf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
+     <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
+    <img align="left" height="200" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=wagnerdf&theme=vue#gh-light-mode-only" alt="Contributions (Light)" />
+  </a>
+  <a href="https://github.com/wagnerdf#gh-dark-mode-only" target="_blank">
+    <img align="left" height="200" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=wagnerdf&theme=nightowl#gh-dark-mode-only" alt="Contributions (Dark)" />
+  </a>
+    <!-- Most Used Languages -->
+  <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
+    <img align="left" height="200" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=vue#gh-light-mode-only" alt="Most Used Languages (Light)" />
+  </a>
+  <a href="https://github.com/wagnerdf#gh-dark-mode-only" target="_blank">
+    <img align="left" height="200" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Most Used Languages (Dark)" />
+  </a>
 </div>
