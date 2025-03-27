@@ -118,7 +118,8 @@
   />
 </div>
 </br>
-<br/> <!-- Outra quebra de linha -->
+</br>
+
 ### 📊 GitHub Stats
 <p align="left">
      <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
