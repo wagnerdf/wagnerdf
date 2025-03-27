@@ -1,8 +1,5 @@
 ## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Developer Java/PHP Web
 <a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-## Contributions
-
-![snake gif](https://github.com/wagnerdf/wagnerdf/blob/output/github-contribution-grid-snake.gif)
 
 ### 🤖 Languages ​​and Technologies
 <div align="left">
@@ -26,7 +23,8 @@
 </div>
 
 ### 📊 GitHub Stats
-<p align="left">
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
      <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
     <img align="left" height="200" width="450" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=wagnerdf&theme=vue#gh-light-mode-only" alt="Contributions (Light)" />
   </a>
@@ -40,5 +38,7 @@
   <a href="https://github.com/wagnerdf#gh-dark-mode-only" target="_blank">
     <img align="left" height="200" width="330" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=wagnerdf&langs_count=8&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Most Used Languages (Dark)" />
   </a>
-</p>
-<br />
+  </div>
+</div>
+
+![snake gif](https://github.com/wagnerdf/wagnerdf/blob/output/github-contribution-grid-snake.gif)
