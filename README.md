@@ -9,6 +9,7 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img alt="Java" title="Java" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
     <img alt="PHP" title="PHP" width="60px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+    <img alt="Flutter" title="Flutter" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
     <img alt="Spring Boot" title="Spring Boot" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
     <img alt="Eclipse IDE" title="Eclipse IDE" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
     <img alt="Visual Studio Code" title="Visual Studio Code" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
@@ -16,9 +17,9 @@
     <img alt="CSS" title="CSS" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
     <img alt="JavaScript" title="JavaScript" width="46px" style="margin: 20px;" src="https://i.imgur.com/uTvtNFc.png" />
     <img alt="TypeScript" title="TypeScript" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img alt="jQuery" title="jQuery" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
     <img alt="Bootstrap" title="Bootstrap" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-    <img alt="jQuery" title="jQuery" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
     <img alt="Ubuntu" title="Ubuntu" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
     <img alt="Git" title="Git" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   </div>
