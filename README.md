@@ -117,11 +117,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
 </div>
-
-
 </br>
 <br/> <!-- Outra quebra de linha -->
-
 ### 📊 GitHub Stats
 <p align="left">
      <a href="https://github.com/wagnerdf#gh-light-mode-only" target="_blank">
