@@ -5,11 +5,12 @@
 <div align="align="center"">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; pointer-events: none;">
     <img alt="Java" title="Java" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-    <img alt="PHP" title="PHP" width="50px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    <img alt="Flutter" title="Flutter" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+    <img alt="PHP" title="PHP" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+    <img alt="Dart" title="Dart" width="40px" style="margin: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dart/dart-original.svg" />
     <img alt="Spring Boot" title="Spring Boot" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
     <img alt="Eclipse IDE" title="Eclipse IDE" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
     <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
+    <img alt="Flutter" title="Flutter" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
     <img alt="HTML" title="HTML" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
     <img alt="CSS" title="CSS" width="40px" style="margin: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
     <img alt="JavaScript" title="JavaScript" width="37px" style="margin: 20px;" src="https://i.imgur.com/uTvtNFc.png" />
