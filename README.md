@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Developer Java/PHP Web
+## <img src="https://i.imgur.com/tQEJFOF.png" alt="Texto Alternativo" width="50"/>  Developer Java/React/PHP Web
 <a href="https://www.linkedin.com/in/wagner-andrade-876b6460" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### 🤖 Languages ​​and Technologies
